@@ -1,0 +1,10 @@
+# Common Mac files
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
+
+# Workspace files
+.vscode/
+.idea/
