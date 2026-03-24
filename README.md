@@ -17,7 +17,7 @@
 
 With the explosive growth of Autonomous Agents (AI Agents), payments have become a critical bottleneck hindering commercial closure. Existing payment systems are primarily designed for "humans" and lack the understanding and adaptation required for "machine decision-making and autonomous execution."
 
-The **Agent Payment Standard (APS)** is dedicated to establishing a comprehensive framework—ranging from identity verification and transaction authorization to compliance auditing—designed to resolve the trust gap in machine-led payments and provide the financial infrastructure for the ubiquitous application of AI Agents. Our goal is to become the "[PCI DSS](https://www.pcisecuritystandards.org/)" for the AI Agent era.
+The **Agent Payment Standard (APS)** is dedicated to establishing a comprehensive set of standards—ranging from identity verification and transaction authorization to compliance auditing—designed to resolve the trust gap in machine-led payments and provide the financial infrastructure for the ubiquitous application of AI Agents. Our goal is to become the "[PCI DSS](https://www.pcisecuritystandards.org/)" for the AI Agent era.
 
 ##  Core Principles
 
